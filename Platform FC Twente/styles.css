@@ -711,6 +711,10 @@ select:focus {
   word-break: normal;
 }
 
+.sidebar-footer {
+  padding-bottom: 8px;
+}
+
 .sidebar-footer .ghost-button {
   box-shadow: 0 10px 24px rgba(255, 255, 255, 0.18);
 }
